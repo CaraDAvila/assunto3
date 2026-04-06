@@ -17,8 +17,6 @@ public class Main {
         } else {
             System.out.println("Valor retirado: " + filaInt.dequeue());
         }
-
-
         while (!filaInt.isEmpty()) {
             System.out.println("Valor retirado: " + filaInt.dequeue());
         }

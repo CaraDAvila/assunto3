@@ -41,5 +41,10 @@ public class FilaInt {
         head = (head - 1) % N;
         return elem;
     }
+
+    public int first () {
+       
+        return( queue[head]);
+    }
 }
 
