@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package exemplo;
 
 public class FilaInt {
     final int N = 3;
@@ -43,7 +43,7 @@ public class FilaInt {
     }
 
     public int first () {
-       
+
         return( queue[head]);
     }
 }
