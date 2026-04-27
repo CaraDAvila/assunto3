@@ -1,4 +1,4 @@
-package ex4Processador;
+package Filas;
 
 public class FilaInt {
     final int N = 3;
